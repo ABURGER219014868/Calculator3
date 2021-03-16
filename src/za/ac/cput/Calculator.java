@@ -6,7 +6,7 @@
 package za.ac.cput;
 
 /**
- *
+ * this sums the two integers and returns a long
  * @author User
  */
 public class Calculator {
